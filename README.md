@@ -1,2 +1,5 @@
-# Building-end-to-end-pipelines-with-Sematic
-Sematic is an open-source Continuous Machine Learning Platform Build used to run end-to-end ML pipelines effortlessly to retrain and improve your models continuously.
+# This is an example README file
+
+## For your project
+
+Add here what other people need to know to run your pipeline.
