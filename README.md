@@ -1,5 +1,3 @@
-# This is an example README file
-
-## For your project
+# Building-end-to-end-pipelines-with-Sematic
 
 Add here what other people need to know to run your pipeline.
