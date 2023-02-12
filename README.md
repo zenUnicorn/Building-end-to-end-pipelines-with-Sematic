@@ -29,3 +29,9 @@ $ sematic stop
 ```
 
 ## Sematic functions
+```python3
+@sematic.func
+def add(x: int, b: int) -> int:
+	z = x + y
+return z
+```
