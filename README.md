@@ -29,9 +29,14 @@ $ sematic stop
 ```
 
 ## Sematic functions
+Sematic Function inputs and outputs are serialized, tracked in the database, and the execution state is also monitored. In the UI, Sematic functions are shown as Runs.
+Consider this Sematic function:
+
 ```python3
 @sematic.func
 def add(x: int, b: int) -> int:
 	z = x + y
 return z
 ```
+
+
