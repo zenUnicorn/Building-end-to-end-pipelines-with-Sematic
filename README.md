@@ -4,6 +4,10 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 
 ## Pipeline steps can notably include:
 - Data processing – Apache Spark jobs, Google Dataflow jobs, or other map/reduce jobs
+- Model training and evaluation – PyTorch, Tensorflow, XgBoost, Scikit Learn, etc.
+- Metrics extraction – extract aggregate metrics from model inferences or feature datasets
+- Hyperparameter tuning – iterate on configurations and trigger training jobs
+
 
 
 
