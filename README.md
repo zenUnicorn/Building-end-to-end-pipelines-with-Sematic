@@ -41,4 +41,7 @@ return z
 
 You will notice that this is just a regular Python function but it is decorated with a Sematic decorator. The input artifacts (x: int, b: int) and the output (z) are type-checked, tracked and visualized in the Sematic UI (user interface).
 
+## Wrap up
+
+
 
