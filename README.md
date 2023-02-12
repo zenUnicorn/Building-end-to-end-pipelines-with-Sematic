@@ -14,3 +14,9 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 
 ## Installtion
 
+```python
+$ pip install sematic
+```
+
+
+
