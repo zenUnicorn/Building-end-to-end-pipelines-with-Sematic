@@ -17,6 +17,10 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 ```python
 $ pip install sematic
 ```
+After installation, to access Sematic web dashboard, you will need to type the following in the terminal.
 
+```python
+$ sematic start
+```
 
 
