@@ -12,7 +12,7 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 
 > Note: Python versions 3.8 and 3.9 are supported.
 
-## Installtion
+## Installation
 
 ```python
 $ pip install sematic
@@ -28,3 +28,4 @@ to stop the server simply type:
 $ sematic stop
 ```
 
+## Sematic functions
