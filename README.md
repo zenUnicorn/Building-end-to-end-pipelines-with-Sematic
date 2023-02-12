@@ -7,10 +7,8 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 - Model training and evaluation – PyTorch, Tensorflow, XgBoost, Scikit Learn, etc.
 - Metrics extraction – extract aggregate metrics from model inferences or feature datasets
 - Hyperparameter tuning – iterate on configurations and trigger training jobs
-
-
-
-
+- Post to third-party APIs – post labelling requests, JIRA tickets, Slack messages, etc.
+- Arbitrary Python logic – really anything that can be implemented in Python.
 
 > Note: Python versions 3.8 and 3.9 are supported.
 
