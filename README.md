@@ -22,5 +22,9 @@ After installation, to access Sematic web dashboard, you will need to type the f
 ```python
 $ sematic start
 ```
+to stop the server simply type: 
 
+```python
+$ sematic stop
+```
 
