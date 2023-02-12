@@ -43,5 +43,9 @@ You will notice that this is just a regular Python function but it is decorated 
 
 ## Wrap up
 
+On your local development system, Sematic enables you to iterate, prototype, and debug your pipelines before submitting them to run in your cloud environment's Kubernetes cluster and make use of resources like GPUs and huge memory instances.
+
+In order to get the best experience using Sematic you can use a wide range of its features such as step retry, pipeline nesting, local execution, lightweight Python SDK, artifact visualization, pipeline reruns, Step caching, and many more.
+
 
 
