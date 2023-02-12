@@ -48,4 +48,5 @@ On your local development system, Sematic enables you to iterate, prototype, and
 In order to get the best experience using Sematic you can use a wide range of its features such as step retry, pipeline nesting, local execution, lightweight Python SDK, artifact visualization, pipeline reruns, Step caching, and many more.
 
 
+Feel free to check out: [Website]([url](https://www.sematic.dev/)) [Documentation]([url](https://docs.sematic.dev/)) [Discord]([url](https://discord.gg/4KZJ6kYVax)) [Youtube]([url](https://www.youtube.com/channel/UC9eRcVMULxC_AZa3VJCVLeg)) [GitHub]([url](https://github.com/sematic-ai/sematic))
 
