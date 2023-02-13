@@ -10,7 +10,7 @@ Sematic is an open-source Continuous Machine Learning Platform Build used to run
 - Post to third-party APIs – post labelling requests, JIRA tickets, Slack messages, etc.
 - Arbitrary Python logic – really anything that can be implemented in Python.
 
-> Note: Python versions 3.8 and 3.9 are supported.
+> Note: Python versions 3.8 and 3.9 are supported..
 
 ## Installation
 
